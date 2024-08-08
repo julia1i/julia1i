@@ -1,4 +1,4 @@
-**Boas vindas no meu perfil**
+**Boas vindas no meu perfil ❤️**
 
 _Estou estudando na Alura
 _Estou me desenvolvendo na linguagem JavaScript
